@@ -1,0 +1,40 @@
+﻿@page "/todo"
+
+<h3>ToDo</h3>
+
+<ul>
+    @for (int i = 0; i < Todos.Count; i++)
+    {
+        <li>@Todos[i] Due: @DueDates[i].ToString()</li>
+    }
+</ul>
+
+<input @bind="NewTodo" @bind:event="oninput" @onsubmit="Save" placeholder="What do you need to do?" />
+<input @bind = "DueDate" @bind:format = "yyyy-MM-dd" @bind:event = "oninput" @onsubmit = "Save" placeholder="Due Date" />
+<button @onclick = "Save">Save</button>
+
+@if (!string.IsNullOrEmpty(NewTodo))
+{
+    <p>@NewTodo Due: @DueDate?.ToShortDateString()</p>
+}
+
+@code {
+    private List<string> Todos = new List<string>();
+
+    private List<DateTime?> DueDates = new List<DateTime?>();
+
+    private string NewTodo = string.Empty;
+
+    private DateTime? DueDate = null;
+
+    private void Save()
+    {
+        if (string.IsNullOrEmpty(NewTodo)) return;
+
+        Todos.Add(NewTodo);
+        NewTodo = string.Empty;
+
+        DueDates.Add(DueDate);
+        DueDate = null;
+    }
+}

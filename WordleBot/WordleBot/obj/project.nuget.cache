@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xoak355U5ijmyjBUwckPiPG4CmA3/aAoqqzT8Yq3FRmhEIJsfUmF/FNZfHohxc9MH42QoG0dusYLDRGzqSfzfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\workspace\\personal-projects\\WordleBot\\WordleBot\\Solution.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\mstest.testframework\\3.0.2\\mstest.testframework.3.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

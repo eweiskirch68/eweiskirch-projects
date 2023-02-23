@@ -1,0 +1,15 @@
+C:\Users\Student\workspace\eli-weiskirch-student-code\personal-projects\WordleBot\WordleBot\bin\Debug\net6.0\WordleBot.exe
+C:\Users\Student\workspace\eli-weiskirch-student-code\personal-projects\WordleBot\WordleBot\bin\Debug\net6.0\WordleBot.deps.json
+C:\Users\Student\workspace\eli-weiskirch-student-code\personal-projects\WordleBot\WordleBot\bin\Debug\net6.0\WordleBot.runtimeconfig.json
+C:\Users\Student\workspace\eli-weiskirch-student-code\personal-projects\WordleBot\WordleBot\bin\Debug\net6.0\WordleBot.dll
+C:\Users\Student\workspace\eli-weiskirch-student-code\personal-projects\WordleBot\WordleBot\bin\Debug\net6.0\WordleBot.pdb
+C:\Users\Student\workspace\eli-weiskirch-student-code\personal-projects\WordleBot\WordleBot\obj\Debug\net6.0\WordleBot.csproj.AssemblyReference.cache
+C:\Users\Student\workspace\eli-weiskirch-student-code\personal-projects\WordleBot\WordleBot\obj\Debug\net6.0\WordleBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\workspace\eli-weiskirch-student-code\personal-projects\WordleBot\WordleBot\obj\Debug\net6.0\WordleBot.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\eli-weiskirch-student-code\personal-projects\WordleBot\WordleBot\obj\Debug\net6.0\WordleBot.AssemblyInfo.cs
+C:\Users\Student\workspace\eli-weiskirch-student-code\personal-projects\WordleBot\WordleBot\obj\Debug\net6.0\WordleBot.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\eli-weiskirch-student-code\personal-projects\WordleBot\WordleBot\obj\Debug\net6.0\WordleBot.dll
+C:\Users\Student\workspace\eli-weiskirch-student-code\personal-projects\WordleBot\WordleBot\obj\Debug\net6.0\refint\WordleBot.dll
+C:\Users\Student\workspace\eli-weiskirch-student-code\personal-projects\WordleBot\WordleBot\obj\Debug\net6.0\WordleBot.pdb
+C:\Users\Student\workspace\eli-weiskirch-student-code\personal-projects\WordleBot\WordleBot\obj\Debug\net6.0\WordleBot.genruntimeconfig.cache
+C:\Users\Student\workspace\eli-weiskirch-student-code\personal-projects\WordleBot\WordleBot\obj\Debug\net6.0\ref\WordleBot.dll
